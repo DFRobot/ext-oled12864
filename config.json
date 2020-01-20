@@ -1,0 +1,33 @@
+{
+	"name": {
+		"zh-cn": "OLED-12864显示屏(测试)",
+		"en": "OLED-12864 screen(Test)"
+	},
+	"description": {
+		"zh-cn": "小体积显示屏，可用于智能穿戴设备的显示器",
+		"en": "I2C OLED-2864 Display Module"
+	},
+	"auther": "DFRobot",
+	"email": "MindPlus@dfrobot.com",
+	"license": "MIT",
+	"isTest": false,
+	"isBoard": false,
+	"id": "oled12864",
+	"platform": ["win", "mac", "web"],
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["microbit", "esp32"],
+			"main": "main.ts",
+			"files": [
+				"_locales/zh-cn.json",
+				"_images/icon.svg",
+				"libraries/oled12864/oled12864.cpp",
+				"libraries/oled12864/oled12864.h",
+				"libraries/oled12864/qrcode.c",
+				"libraries/oled12864/qrcode.h"
+			]
+		}
+	}
+}
