@@ -19,7 +19,7 @@
 			"dir": "arduinoC/",
 			"version": "0.0.1",
 			"board": ["microbit", "esp32"],
-			"main": "main1.ts",
+			"main": "main.ts",
 			"files": [
 				"_locales/zh-cn.json",
 				"_images/icon.svg",

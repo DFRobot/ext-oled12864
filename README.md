@@ -2,7 +2,7 @@
 
 I2C OLED-2864 screen(测试)
 
-<img src="https://github.com/liliang/ext.oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
+<img src="https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
 
 ---------------------------------------------------------
 
@@ -15,7 +15,7 @@ I2C OLED-2864 screen(测试)
 * [Supported targets](#Supportedtargets)
 
 ## URL
-project URL: ```https://github.com/liliang/ext-oled12864```
+project URL: ```https://github.com/DFRobot/ext-oled12864```
 
 ## Summary
 Support different drawings in the screen, including point, line, circle, rectangle, triangle,rounded rectangle and some commands.
@@ -24,7 +24,7 @@ IIC: the redraw rate is more than 30 frames per second when redrawed by ESP seri
 
 ## Blocks
 
-![image](https://github.com/liliang/ext.oled12864/blob/master/arduinoC/_images/blocks.png)
+![image](https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/blocks.png)
 
 
 Get a purchase connection: [store](https://www.dfrobot.com.cn/index.php).
