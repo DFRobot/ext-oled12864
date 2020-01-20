@@ -4,6 +4,11 @@ I2C OLED-2864 screen(测试)
 
 <img src="https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
 
+# 用户库教程
+
+
+教程链接：[Mind+官方文档](https://mindplus.dfrobot.com.cn/extensions-user).
+
 ---------------------------------------------------------
 
 ## Table of Contents
