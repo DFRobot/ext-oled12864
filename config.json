@@ -19,6 +19,14 @@
 			"version": "0.0.2",
 			"board": ["microbit", "esp32"],
 			"main": "main.ts"
-		}
+		},
+		"files": [
+			"_images/icon.svg",
+			"_locales/zh-cn.json",
+			"_menus/leonardo.json",
+			"_menus/microbit.json",
+			"main.ts",
+			"libraries/libraries.zip"
+		  ]
 	}
 }
