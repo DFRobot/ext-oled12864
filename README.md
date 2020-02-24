@@ -1,13 +1,7 @@
-# OLED
-
-I2C OLED-2864 screen(测试)
-
-<img src="https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
-
-# 用户库教程
+# I2C OLED-2864 screen
 
 
-教程链接：[Mind+官方文档](https://mindplus.dfrobot.com.cn/extensions-user).
+![](./arduinoC/_images/featured.png)
 
 ---------------------------------------------------------
 
@@ -20,7 +14,11 @@ I2C OLED-2864 screen(测试)
 * [Supported targets](#Supportedtargets)
 
 ## URL
-project URL: ```https://github.com/DFRobot/ext-oled12864```
+* Project URL : ```https://github.com/DFRobot/ext-oled12864```
+
+* Tutorial URL : ```https://mindplus.dfrobot.com.cn/extensions-user```
+
+* Get a purchase connection: [store](https://www.dfrobot.com/).
 
 ## Summary
 Support different drawings in the screen, including point, line, circle, rectangle, triangle,rounded rectangle and some commands.
@@ -29,10 +27,13 @@ IIC: the redraw rate is more than 30 frames per second when redrawed by ESP seri
 
 ## Blocks
 
-![image](https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/blocks.png)
+![](./arduinoC/_images/blocks.png)
 
 
-Get a purchase connection: [store](https://www.dfrobot.com.cn/index.php).
+
+## Examples
+
+![](./arduinoC/_images/example.png)
 
 ## License
 
@@ -44,3 +45,8 @@ MCU                | JavaScript    | Arduino   | MicroPython    | Remarks
 ------------------ | :----------: | :----------: | :---------: | -----
 micro:bit        |             |       √       |             | 
 mpython        |             |        √      |             | 
+
+
+## Release Logs
+* V0.0.1  Basic functions completed.
+* V0.0.2  Revised according to V1.6.2 RC2.0
