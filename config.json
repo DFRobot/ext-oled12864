@@ -1,10 +1,10 @@
 {
 	"name": {
-		"zh-cn": "OLED-12864显示屏",
+		"zh-cn": "OLED-12864显示屏(示例)",
 		"en": "OLED-12864 screen"
 	},
 	"description": {
-		"zh-cn": "小体积显示屏，可用于智能穿戴设备的显示器",
+		"zh-cn": "小体积显示屏，可用于智能穿戴设备的显示器。(用户库示例)",
 		"en": "I2C OLED-2864 Display Module"
 	},
 	"author": "DFRobot",
@@ -13,20 +13,13 @@
 	"isBoard": false,
 	"id": "oled12864",
 	"platform": ["win", "mac", "web"],
+	"version": "0.0.3",
 	"asset": {
 		"arduinoC": {
 			"dir": "arduinoC/",
-			"version": "0.0.2",
+			"version": "0.0.3",
 			"board": ["microbit", "esp32"],
-			"main": "main.ts",
-			"files": [
-				"_images/icon.svg",
-				"_locales/zh-cn.json",
-				"_menus/leonardo.json",
-				"_menus/microbit.json",
-				"main.ts",
-				"libraries/libraries.zip"
-			  ]
+			"main": "main.ts"
 		}
 	}
 }

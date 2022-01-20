@@ -50,3 +50,4 @@ mpython        |             |        √      |             |
 ## Release Logs
 * V0.0.1  Basic functions completed.
 * V0.0.2  Revised according to V1.6.2 RC2.0
+* V0.0.3  add version and menus file
